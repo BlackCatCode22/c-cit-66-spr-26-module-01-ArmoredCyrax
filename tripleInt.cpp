@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 
-    std::cout << "Enter an integer, and I will triple it: ";
+    cout << "Enter an integer, and I will triple it: ";
 
     int i;
 
