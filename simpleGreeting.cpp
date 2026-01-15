@@ -6,11 +6,11 @@ int main() {
 
     string name;
 
-    std::cout << "Hello, what's your name?";
+    cout << "Hello, what's your name?";
 
-    std::cin >> name;
+    cin >> name;
 
-    std::cout << "Hello "<<name<<"!";
+    cout << "Hello "<<name<<"!";
 
     return 0;
 }
